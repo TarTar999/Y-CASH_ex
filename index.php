@@ -15,7 +15,7 @@ include("manifest/pash.php");
 	<script type="text/javascript" src="<?php echo $pash['contextMenu']?>"></script>
 
 </head>
-<body ng-controller="HomeCtrl">
+<body ng-controller="HomeCtrl" style="height: 20000px;">
 
 	<!-- nav barre  -->
 	<?php include("fragment/navbarre.php") ?>
