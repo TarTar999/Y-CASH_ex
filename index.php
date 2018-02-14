@@ -147,7 +147,7 @@ include("manifest/pash.php");
 </div>
 
 
-<div class="k am ad" style="background-image: url(res/img/startup-3.jpg);" style="min-width: 1500px;">
+<div class="k am ad" style="background-image: url(res/img/startup-3.jpg);">
     <div class="e">
       <div class="c aq aic yt">
         <div class="fs ge aiq" style="float: left;">
